@@ -1,7 +1,7 @@
 {
   "name": "basic-express-server",
   "version": "1.0.0",
-  "description": ">  Building express server using best practices, including server modularization, use of middleware, and tests.",
+  "description": "Building express server using best practices, including server modularization, use of middleware, and tests.",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage --verbose",
