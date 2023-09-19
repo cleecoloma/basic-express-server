@@ -1,0 +1,14 @@
+{
+  "name": "basic-express-server",
+  "version": "1.0.0",
+  "description": ">  Building express server using best practices, including server modularization, use of middleware, and tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
