@@ -18,18 +18,17 @@ Send a request:
 
 ```text
 method: GET
-route: /sum
-params:
-  value1={Integer}
-  value2={Integer}
+route: /person
+query:
+  name={nameOfPerson}
 ```
 
+## Deployed link
 > This is deployed on Render at:
-* [Dev Branch](https://server-deployment-dev-5e4h.onrender.com)
-* [Main/Production Branch](https://server-deployment-prod-q0ri.onrender.com)
+* [Main/Production Branch](https://basic-express-server-svjf.onrender.com)
 
 ## PR link
-[PR link]()
+[PR link](https://github.com/cleecoloma/basic-express-server/pull/1)
 
 ## Contributors
 > Chester Lee Coloma
