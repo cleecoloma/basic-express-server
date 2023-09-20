@@ -23,6 +23,9 @@ query:
   name={nameOfPerson}
 ```
 
+## UML Diagram
+![Basic Express Server UML Diagram](./assets/401-class-02-lab.png)
+
 ## Deployed link
 > This is deployed on Render at:
 * [Main/Production Branch](https://basic-express-server-svjf.onrender.com)
